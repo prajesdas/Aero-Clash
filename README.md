@@ -40,7 +40,12 @@ To record and save your game session:
 - Additional power-ups and weapons.
 - Multiplayer mode.
 
-.
+**DEMO:**
+![Screenshot 2025-03-05 022241](https://github.com/user-attachments/assets/1a1a3659-0295-44b8-9b5c-3ffef281cafb)
+
+![Screenshot 2025-03-05 022314](https://github.com/user-attachments/assets/102b526d-ccc9-41c7-816d-4ce42e7588be)
+
+
 
 
 
